@@ -61,7 +61,7 @@ E-mail: contato@conectaidosos.org.br
 
 Telefone: (11) 1234-5678
 
-Website: https://www.conectaidosos.org.br
+Website: https://conecta-idosos-web-qj5v.vercel.app/
 
 ⚖ Licença
 
