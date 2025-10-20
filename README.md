@@ -1,6 +1,6 @@
 # Conecta Idosos 🌐💛
 
-![Uploading Captura de tela 2025-10-18 115524.png…]()
+![Preview do site](./Captura%20de%20tela%202025-10-18%20115524.png)
 
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML) 
